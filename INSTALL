@@ -1,0 +1,9 @@
+Building Securechatcoin
+
+See doc/readme-qt.rst for instructions on building Securechatcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Securechatcoin.
+
+See doc/build-*.txt for instructions on building securechatcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Securechatcoin.
